@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Wisata di bekasi</string>
+
+    <string name="wisata">Wisata di bekasi</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Curug Parigi</item>
+        <item>Danau Cibereum</item>
+        <item>Gedung Juang</item>
+        <item>GoWet Waterpark</item>
+        <item>Hutan Kota</item>
+        <item>Pantai Muara Gembong</item>
+        <item>Rumah Pohon Jati Asih</item>
+        <item>Situ Gede Bekasi</item>
+        <item>Transera Waterpark</item>
+        <item>Saung Wulan</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item> Curug Parigi terletak di perbatasan bekasi bogor, Indonesia. Curug (air terjun) ini terkenal karena keindahan alamnya. </item>
+        <item> Danau Cibereum. Danau ini terkenal dengan keindahan alamnya dan merupakan salah satu tujuan favorit untuk hiking dan piknik. </item>
+        <item> Gedung Juang, gedung ini memiliki nilai sejarah yang tinggi karena pernah menjadi markas pemerintahan Indonesia saat masa perjuangan kemerdekaan. Sekarang, gedung ini dijadikan museum yang memamerkan artefak dan sejarah perjuangan kemerdekaan Indonesia. </item>
+        <item> Gowet Waterpark,  Salah satu taman air yang populer di Indonesia. Gowet menawarkan berbagai wahana seru dan area rekreasi keluarga yang menyenangkan. </item>
+        <item> Hutan Kota, area hijau di tengah perkotaan yang berfungsi sebagai paru-paru kota. Biasanya tempat ini digunakan untuk rekreasi, olahraga, dan kegiatan sosial. </item>
+        <item> Pantai Muara Gembong, Pantai yang terletak di Bekasi, Indonesia, terkenal dengan pesona pantainya dan kegiatan nelayan tradisional. </item>
+        <item> Rumah Pohon Jatiasih, Sebuah destinasi wisata yang unik dengan konsep rumah pohon. Tempat ini menawarkan pengalaman menginap yang berbeda. </item>
+        <item> Situ Gede, Danau ini menjadi destinasi wisata alam yang populer untuk memancing, piknik, dan menikmati keindahan alam yang mempesona. </item>
+        <item> Transera Waterpark, Salah satu taman air terkenal di Indonesia yang menawarkan berbagai atraksi, permainan air, dan wahana seru untuk keluarga. </item>
+        <item> Saung Wulan, Tempat ini mungkin merujuk pada salah satu tempat makan atau area rekreasi di Bekasi, Yang memiliki keunikan atau keindahan alam yang menarik untuk dinikmati oleh pengunjung </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/curug_parigi</item>
+        <item>@drawable/danau_cibereum</item>
+        <item>@drawable/gedung_juang</item>
+        <item>@drawable/gowet_waterpark</item>
+        <item>@drawable/hutan_kota</item>
+        <item>@drawable/pantai_muara_gembong</item>
+        <item>@drawable/rumah_pohon_jatiasih</item>
+        <item>@drawable/situ_gede</item>
+        <item>@drawable/transera_waterpark</item>
+        <item>@drawable/saung_wulan</item>
+    </integer-array>
+
+</resources>
